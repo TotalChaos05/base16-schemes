@@ -1,11 +1,11 @@
-# base16-schemes
 
-## Contributing
+
+
 
 To submit your scheme, submit a new pull request to this repository with your
 scheme yaml file.
 
-## Imported Scheme Repositories
+
 
 These are the original locations all schemes were imported from.
 
@@ -100,7 +100,7 @@ These are the original locations all schemes were imported from.
 * [XCode Dust](https://github.com/gonsie/base16-xcode-dusk-scheme) maintained by [gonsie](https://github.com/gonsie)
 * [Old Unclaimed Schemes](https://github.com/chriskempson/base16-unclaimed-schemes) - If your scheme is in this repository, please give it a new home!
 
-## FAQ
+
 
 ***Where did these all come from?***
 
